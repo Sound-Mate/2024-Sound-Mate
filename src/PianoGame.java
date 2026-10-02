@@ -80,7 +80,7 @@ public class PianoGame extends JFrame {
                     "src/rhythm/P-WelcomeToTheShow.txt"
             );
 
-            // 피아노 키 매핑
+            // 피아노 키
             Map<Integer, Character> pianoKeys = Map.of(
                     0, 'a',
                     172, 's',
